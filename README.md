@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Aspiring Software Developer | AI/ML Enthusiast | Full-Stack Developer | Building innovative projects and exploring new technologies.
 
 
